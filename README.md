@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Rao
-- 👀 I’m interested in Video Games , Universe .... etc
-- 🌱 I’m currently learning Web Development and Editing
+- 👀 I’m interested in Video Games , Universe , Coding , Sports.... etc
+- 🌱 I’m currently learning Web Development 
 - 📫 How to reach me 2007raoaryan@gmail.com
 
 
