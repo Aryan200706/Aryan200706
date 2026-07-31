@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Rao
 - 👀 I’m interested in Video Games , Universe , Coding , Sports.... etc
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently a B.tech CSE AI&ML Student @SIET Panchkula
 - 📫 How to reach me 2007raoaryan@gmail.com
 
 
